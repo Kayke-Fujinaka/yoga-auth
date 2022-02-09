@@ -1,8 +1,16 @@
 # Yoga Login
 
+<<<<<<< HEAD
 <img src="https://github.com/Kayke-Fujinaka/Yoga-Login/blob/main/imageyoga.png?raw=true" width="450px" alt="Yoga Login">
 
 >  It is an application of a login screen for a yoga application, which was used Html and CSS to be programmed.
+=======
+
+Confira a aplicação: <a href="https://kayke-fujinaka.github.io/Yoga-Login/">Aqui</a>
+
+<img src="./imageyoga.png">
+
+>>>>>>> 9b122cde4915b623e948d60804696d6f2805210c
 
 Confira a aplicação: https://kayke-fujinaka.github.io/Yoga-Login/
 
