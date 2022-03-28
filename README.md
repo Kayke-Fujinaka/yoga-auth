@@ -9,7 +9,7 @@ Check the Application: https://kayke-fujinaka.github.io/Yoga-Login/
 
 :heavy_check_mark: Estruturação da página;\
 :heavy_check_mark: Estilização;\
-:heavy_check_mark: Finalizado;\
+:heavy_check_mark: Finalizado;
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
