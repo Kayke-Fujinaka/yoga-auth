@@ -1,44 +1,42 @@
 # Yoga Login
 
-<<<<<<< HEAD
-<img src="https://github.com/Kayke-Fujinaka/Yoga-Login/blob/main/imageyoga.png?raw=true" width="450px" alt="Yoga Login">
+<img src="./assets/gif.gif" width="800px" height="450px" alt="Gif do Teste">
 
 >  It is an application of a login screen for a yoga application, which was used Html and CSS to be programmed.
-=======
 
-Confira a aplicação: <a href="https://kayke-fujinaka.github.io/Yoga-Login/">Aqui</a>
+Check the Application: https://kayke-fujinaka.github.io/Yoga-Login/
+## :dart: Features ##
 
-<img src="./imageyoga.png">
+:heavy_check_mark: Estruturação da página;\
+:heavy_check_mark: Estilização;\
+:heavy_check_mark: Finalizado;\
+## :rocket: Technologies ##
 
->>>>>>> 9b122cde4915b623e948d60804696d6f2805210c
+The following tools were used in this project:
 
-Confira a aplicação: https://kayke-fujinaka.github.io/Yoga-Login/
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+## 🤝 Collaborators
 
-## 🚀 Technologies
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML5
-- CSS3
-- JavaScript
-
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+We thank the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="100px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="140px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
         <sub>
-          <b>Kayke Fujinaka</b>
+          <b>Kayke Alves Fujinaka</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
+
+&#xa0;
+
+<a href="#top">Back to top</a>
