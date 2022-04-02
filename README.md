@@ -1,6 +1,6 @@
 # Yoga Login
 
-<img src="./assets/gif.gif" width="800px" height="450px" alt="Gif do Teste">
+<img src="./assets/img/gif.gif" width="800px" height="450px" alt="Gif do Teste">
 
 >  It is an application of a login screen for a yoga application, which was used Html and CSS to be programmed.
 

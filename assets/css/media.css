@@ -1,0 +1,71 @@
+@media (max-width: 400px) {
+    .logo {
+        max-width: 50px;
+        max-height: 40px;
+        margin: 80px auto 50px auto;
+    }
+    input {
+        width: 250px;
+        height: 35px;
+        font-size: 10px;
+    }
+    .forg {
+        display: block;
+        margin: 20px auto 30px;
+        background: transparent;
+        width: 250px;
+    }
+    .forgot {
+        font-size: 10px;
+    }
+    button {
+        padding: 8px 35px;
+        font-size: 10px;
+    }
+    .dont {
+        font-size: 10px;
+    }
+    P {
+        font-size: 12px;
+    }
+    .midias img {
+        max-width: 30px;
+        max-height: 30px;
+    }
+}
+
+@media (max-width: 300px) {
+    .logo {
+        max-width: 50px;
+        max-height: 40px;
+        margin: 80px auto 50px auto;
+    }
+    input {
+        width: 180px;
+        height: 30px;
+        font-size: 8px;
+    }
+    .forg {
+        display: block;
+        margin: 20px auto 30px;
+        background: transparent;
+        width: 180px;
+    }
+    .forgot {
+        font-size: 8px;
+    }
+    button {
+        padding: 8px 35px;
+        font-size: 8px;
+    }
+    .dont {
+        font-size: 8px;
+    }
+    P {
+        font-size: 10px;
+    }
+    .midias img {
+        max-width: 20px;
+        max-height: 20px;
+    }
+}
