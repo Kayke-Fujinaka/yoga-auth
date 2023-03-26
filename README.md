@@ -1,21 +1,28 @@
-# Yoga Login
+<h1 align="center">🪷 Yoga Login Page</h1>
 
 <img src="./assets/img/gif.gif" alt="Gif do Teste">
 
->  It is an application of a login screen for a yoga application, which was used Html and CSS to be programmed.
+> This is a login screen application for a yoga app.
 
-Check the Application: https://kayke-fujinaka.github.io/Yoga-Login/
+Check the application: https://kayke-fujinaka.github.io/Yoga-Login/
+
+## :page_facing_up: Explanation
+
+This is a login screen application for a yoga app, created using HTML and CSS. The project features a lotus_position_man image and aims to provide an intuitive and visually pleasing login experience for users.
+
 ## :dart: Features ##
 
-:heavy_check_mark: Estruturação da página;\
-:heavy_check_mark: Estilização;\
+:heavy_check_mark: Structure;\
+:heavy_check_mark: Style;\
 :heavy_check_mark: Finalizado;
-## :rocket: Technologies ##
 
-The following tools were used in this project:
+## 🚀 Technologies
 
-- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+This project was developed using the following technologies:
+
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
 ## 🤝 Collaborators
 
 We thank the following people who contributed to this project:
